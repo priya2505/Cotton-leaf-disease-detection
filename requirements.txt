@@ -1,0 +1,53 @@
+
+Cython @ file:///C:/ci/cython_1594829190914/work
+cytoolz==0.10.1
+dask @ file:///tmp/build/80754af9/dask-core_1594156306305/work
+dataclasses==0.6
+
+docutils==0.16
+
+fastcache==1.1.0
+
+google-auth==1.22.1
+google-auth-oauthlib==0.4.1
+
+h5py==2.10.0
+HeapDict==1.0.1
+
+ipykernel @ file:///C:/ci/ipykernel_1594745408489/work/dist/ipykernel-5.3.2-py3-none-any.whl
+ipython @ file:///C:/ci/ipython_1593447482397/work
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+
+Keras-Preprocessing==1.1.2
+
+matplotlib @ file:///C:/ci/matplotlib-base_1592837548929/work
+
+notebook==6.0.3
+
+numpy==1.18.5
+
+oauthlib==3.1.0
+
+pandas @ file:///C:/ci/pandas_1592833613419/work
+pandocfilters==1.4.2
+paramiko==2.7.1
+parso==0.7.0
+partd==1.1.0
+path==13.1.0
+pathlib2==2.3.5
+pathtools==0.1.2
+
+pickle-mixin==1.0.2
+pickleshare==0.7.5
+
+python-language-server @ file:///C:/ci/python-language-server_1594162130238/work
+
+scikit-image==0.16.2
+scikit-learn @ file:///C:/ci/scikit-learn_1592853510272/work
+statsmodels==0.11.1
+streamlit==0.68.1
+tensorflow-estimator==2.3.0
+unicodecsv==0.14.1
+urllib3==1.25.9
+validators==0.18.1
